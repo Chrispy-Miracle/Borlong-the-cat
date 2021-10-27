@@ -1,3 +1,5 @@
+
+<styles>
 #title {
   display: grid;
   text-align: center;
@@ -33,3 +35,4 @@
 #img-caption {
   text-align: center;
 }
+</styles>
