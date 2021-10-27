@@ -1,0 +1,35 @@
+#title {
+  display: grid;
+  text-align: center;
+  margin: 20px;
+  font-size: 40px;
+}
+
+#subtitle {
+  text-align: center;  
+}
+
+#img-div {
+  display: flex;
+  justify-content: center;
+}
+#image {
+  display: block;
+  justify-content: center;
+  text-align: center;
+}
+.responsive-img {
+    max-width: 100%;
+    height: auto;
+}
+#tribute-info {
+  text-align: center;
+  background-color: gray;
+  margin-bottom: 50px;
+}
+#tribute-link {
+  text-align: center;
+}
+#img-caption {
+  text-align: center;
+}
